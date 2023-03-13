@@ -19,11 +19,12 @@ Adapter is a `structural design pattern` that allows objects with incompatible i
 # Pros & Cons
 
 **Pros**
-    - _Single Responsibility Principle (SRP)_: The interface, conversion (adapter) & business logic can be isolated.
 
+    - _Single Responsibility Principle (SRP)_: The interface, conversion (adapter) & business logic can be isolated.
     - _Open/Closed Principle_: Adapters can be introduced (open for extention) without changing existing code (closed for modification).
     
 **Cons**
+
     - The added complexity may not be worth the effort. Updating the original issue (cause for the adapter) may be simpler.
 
 
