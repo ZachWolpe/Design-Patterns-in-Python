@@ -1,5 +1,6 @@
 # [NAME]
 ## Design Pattern [B]
+### Structural Design Pattern
 ----
 
 Description.

@@ -1,5 +1,5 @@
 # Adapter
-## Design Patterns Part VII
+## Design Patterns VII
 ----
 
 
