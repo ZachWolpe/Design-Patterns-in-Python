@@ -14,7 +14,6 @@ class LazyBitmap:
     
     def draw(self):
         if not self.bitmap:
-
             print('Creating bitmap')
             self.bitmap = Bitmap(self.filename)
         self.bitmap.draw()
