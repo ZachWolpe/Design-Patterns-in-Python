@@ -9,6 +9,6 @@ Many thanks to [Refactoring Guru](https://refactoring.guru/design-patterns/bridg
 
 
 ```
-:     zach wolpe
-:     zach.wolpe@medibio.com.au
+: zach wolpe
+: zach.wolpe@medibio.com.au
 ```
